@@ -11,5 +11,5 @@ Usage:
 
 Examples:
 
-[![Game of Life](https://asciinema.org/a/itzBKp5EuRj3EqL5PSzIMbBG8.svg)](https://asciinema.org/a/itzBKp5EuRj3EqL5PSzIMbBG8)
-[![Game of Life - The Glider](https://asciinema.org/a/itzBKp5EuRj3EqL5PSzIMbBG8.svg)](https://asciinema.org/a/itzBKp5EuRj3EqL5PSzIMbBG8)
+[![Game of Life](https://asciinema.org/a/749827.svg)](https://asciinema.org/a/749827)
+[![Game of Life - The Glider](https://asciinema.org/a/749828.svg)](https://asciinema.org/a/749828)
