@@ -8,3 +8,8 @@ Usage:
 
 - Hit **enter** to advance to the next generations.
 - Type **CTRL+C** to exit.
+
+Examples:
+
+- [![Game of Life](https://asciinema.org/a/itzBKp5EuRj3EqL5PSzIMbBG8.svg)](https://asciinema.org/a/itzBKp5EuRj3EqL5PSzIMbBG8)
+- [![Game of Life - Glider](https://asciinema.org/a/749828.svg)](https://asciinema.org/a/749828)
