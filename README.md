@@ -12,4 +12,5 @@ Usage:
 Examples:
 
 - [![Game of Life](https://asciinema.org/a/itzBKp5EuRj3EqL5PSzIMbBG8.svg)](https://asciinema.org/a/itzBKp5EuRj3EqL5PSzIMbBG8)
-- [![Game of Life - Glider](https://asciinema.org/a/749828.svg)](https://asciinema.org/a/749828)
+
+<script src="https://asciinema.org/a/itzBKp5EuRj3EqL5PSzIMbBG8.js" id="asciicast-itzBKp5EuRj3EqL5PSzIMbBG8" async="true"></script>
